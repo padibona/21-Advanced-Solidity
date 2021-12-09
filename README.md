@@ -9,10 +9,10 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 ## Steps Completed:
 * Compiled all contracts using Remix/Ganache/Metamask and Injected Web 3.
 * Deployed all contracts as well using Remix/Ganache/Metamask.
-* Took anaimated .gif of all actions with the exception of the testing the actual crowdsale as we received some errors about the user does not minter role which I was not able to solve.
+* Took anaimated .gif of all actions with the exception of the testing the actual crowdsale as I received some errors about the user does not minter role which I was not able to solve.
 
 ## Evaluation Evidence
-[KaseiCoin Compilation with Error and fix](https://recordit.co/nk2R33UbqC) - we could only compile using 0.5.5 compiler, not the 0.5.0 as mentioned in the requirements.
+[KaseiCoin Compilation with Error and fix](https://recordit.co/nk2R33UbqC) - I could only compile using 0.5.5 compiler, not the 0.5.0 as mentioned in the requirements.
 
 [KaseiCoinCrowdsale Compilation](https://recordit.co/rD175ybzoW) - Successful
 
